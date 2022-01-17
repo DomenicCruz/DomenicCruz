@@ -9,6 +9,16 @@
 - 💞️🔍I’m looking to collaborate on something fun and challenging! i really want to find a mentor, or a group of programmers to learn together with
 - 📫 How to reach me domeniccruzzlancer@protonmail.com or on this github
 
+```
+                        __
+                     -=(o '.
+                        '.-.\
+                        /|  \\
+                        '|  ||
+                         _\_):,_
+```
+
+
 <!---
 DomenicCruz/DomenicCruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
